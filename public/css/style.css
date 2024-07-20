@@ -1,12 +1,1 @@
-* {
-  margin: 0;
-  padding: 0;
-  max-width: 100%;
-}
-body {
-  display: flex;
-  flex-direction: column;
-}
-header {
-  display: flex;
-}
+*{margin:0;padding:0;max-width:100%}body{display:flex;flex-direction:column}header{display:flex}/*# sourceMappingURL=style.css.map */
