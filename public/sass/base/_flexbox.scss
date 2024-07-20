@@ -1,0 +1,14 @@
+body {
+  display: flex;
+  flex-direction: column;
+}
+header {
+  display: flex;
+}
+
+nav ul {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-around;
+}

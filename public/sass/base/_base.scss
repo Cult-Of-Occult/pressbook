@@ -1,12 +1,17 @@
+@import '../variable/variable';
+
 * {
   margin: 0;
   padding: 0;
   max-width: 100%;
 }
 body {
-  display: flex;
-  flex-direction: column;
+  background-color: $color-primary;
+  color: $color-secondary;
 }
-header {
-  display: flex;
+ul {
+  list-style-type: none;
+}
+.cultofoccult_headerbanner {
+  filter: invert(100);
 }
